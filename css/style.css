@@ -26,3 +26,20 @@ body {
     padding-top: 60px;
     padding-bottom: 60px;
 }
+.navbar a {
+    color: #BEAE9C;
+}
+h5 {
+    color: black;
+}
+#collapseWidthExample {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.accordian {
+    padding: 80px;
+}
+.accordian-item {
+    justify-content: center;
+    align-items: center;
+}
