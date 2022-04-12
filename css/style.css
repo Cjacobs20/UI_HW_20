@@ -15,7 +15,7 @@ h1 {
     padding-left: 80px;
 }
 body {
-    background-color: #BEAE9C;
+    background-color: #ffffff;
 }
 .researchCards {
     justify-content: center;
@@ -28,6 +28,21 @@ body {
 }
 .navbar a {
     color: #BEAE9C;
+}
+.heroBanner {
+    display: flex;
+    flex-direction: column;
+}
+.heroBanner img {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 20px;
+    height: ;
+}
+.heroText {
+    justify-content: center;
+    align-items: center;
 }
 h5 {
     color: black;
