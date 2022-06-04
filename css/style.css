@@ -1,5 +1,6 @@
 #navbar-example2 {
     position: fixed;
+    z-index: 1;
     width: 100%;
 }
 p {
@@ -27,10 +28,11 @@ body {
     padding-bottom: 60px;
 }
 .navbar a {
-    color: #BEAE9C;
+    color: #ffffff;
 }
 .heroBanner {
     display: flex;
+    justify-content: center;
     flex-direction: column;
 }
 .heroBanner img {
@@ -38,10 +40,11 @@ body {
     justify-content: center;
     display: flex;
     padding: 20px;
-    height: ;
+    padding-top: 80px;
 }
 .heroText {
     justify-content: center;
+    padding-left: 20px;
     align-items: center;
 }
 h5 {
